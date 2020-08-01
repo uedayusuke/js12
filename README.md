@@ -2,4 +2,4 @@
 
 DMM WEBCAMPカリキュラム
 
-* JavaScriptを学ぼう/
+* JavaScriptを学ぼう/12章【Ajaxを学ぼう】
